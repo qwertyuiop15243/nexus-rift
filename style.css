@@ -21,13 +21,21 @@ p {
 .inline{
 display: inline-block;
 }
-
+.custom-card-bg{
+    background-color: rgb(41, 3, 77);
+}
+.custom-card-bg1{
+    background-color: rgb(132, 92, 163);
+}
+.custom-card-bg2{
+    background-color: rgb(253, 239, 229);
+}
+.custom-card-bg3{
+    background-color: rgb(215, 255, 224);
+}
 iframe{
     width: 75%;
     height: 800px;
   
  
-}
-.nav-link {
-    color: rgba(98, 81, 255, 0.56) !important;
 }
